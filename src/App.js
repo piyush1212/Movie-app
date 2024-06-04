@@ -3,6 +3,7 @@ import Filter from "./Components/Filter";
 import MovieList from "./Components/MovieList";
 import "./Style/MoviesList.css";
 
+
 const movies = [
   { title: "The Shawshank Redemption", genre: "Drama", year: 1994 },
   { title: "The Godfather", genre: "Crime", year: 1972 },

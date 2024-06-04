@@ -1,6 +1,7 @@
 import React from "react";
 import "../Style/MoviesList.css";
 
+
 const MovieList = ({ movies, selectedGenre }) => {
   return (
     <div className="MovieList-container">

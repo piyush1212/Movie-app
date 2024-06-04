@@ -13,6 +13,7 @@ const genres = [
   "Animation",
 ];
 
+
 const Filter = ({ setSelectedGenre }) => {
   const handleBtnClick = (genre) => {
     setSelectedGenre(genre);
